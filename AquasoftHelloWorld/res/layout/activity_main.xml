@@ -48,5 +48,14 @@
         android:layout_centerHorizontal="true"
         android:text="@string/Hello_warayut"
         android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <TextView
+        android:id="@+id/textView_aqua"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@string/Hello_warayut"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Hello_aqua"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
