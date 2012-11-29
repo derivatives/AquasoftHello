@@ -39,5 +39,13 @@
         android:layout_centerHorizontal="true"
         android:text="@string/Hello_Tong"
         android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <TextView
+        android:id="@+id/textView_warayut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_tong"
+        android:layout_centerHorizontal="true"
+        android:text="Hello Warayut"/>
 
 </RelativeLayout>
