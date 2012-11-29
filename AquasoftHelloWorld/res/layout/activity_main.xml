@@ -46,6 +46,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView_tong"
         android:layout_centerHorizontal="true"
-        android:text="Hello Warayut"/>
+        android:text="@string/Warayut"/>
 
 </RelativeLayout>
