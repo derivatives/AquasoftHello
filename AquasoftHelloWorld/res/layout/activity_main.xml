@@ -30,5 +30,12 @@
             android:layout_centerHorizontal="true"
             android:text="@string/Hello_Opor"
             android:textAppearance="?android:attr/textAppearanceLarge" />
-
+ <TextView
+            android:id="@+id/textView_tong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView_opor"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Hello_Tong"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
 </RelativeLayout>
