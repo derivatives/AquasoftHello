@@ -4,5 +4,6 @@
     <string name="app_name">AquasoftHelloWorld</string>
     <string name="hello_world">Aquasoft Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="Hello_nu">Hello NU</string>
 
 </resources>
